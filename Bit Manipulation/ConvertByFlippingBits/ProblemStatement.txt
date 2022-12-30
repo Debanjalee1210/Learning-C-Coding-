@@ -1,0 +1,15 @@
+Count number of bits to be flipped to convert A to B.
+-----------------------------------------------------------------------------------------------------------------
+EXPALNATION:-
+
+You are given two numbers A and b.the task is to count the number of bits needed to be flipped to convert A to B.
+Input: A =20,B=25
+Output:3
+
+Why?
+    16-8-4-2-1
+A = 1  0 1 0 0 ------------->Hence, 16 + 4 = 20
+B = 1  1 0 0 1 ------------->hence, 16 + 8 + 1 = 25
+
+Therefore to make A as B ,we need to convert 1 0(1) 1(0) 0 0(1).By flipping to what is in brackets ,we get B from A.
+Hence "3" bits to be flipped 
