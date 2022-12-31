@@ -1,0 +1,15 @@
+Given a non-negative integer N.The task is to check if N is a power of 2.More formally,check if N can be expressed as 2^x for some x.
+
+Explanation:
+
+Input: N = 1
+output: YES
+
+Why?
+Because 1 is equla to 2^0.
+
+Input: N = 98
+Output: no
+
+Why?
+98 cannot be obtained by any power of 2.
