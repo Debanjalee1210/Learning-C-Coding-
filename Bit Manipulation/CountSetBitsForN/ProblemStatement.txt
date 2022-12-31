@@ -1,0 +1,20 @@
+You are given a number N.Find the total count of set bits for all numbers from 1 to N(both inclusive)
+
+Example: 
+
+Input: N=4
+Output: 5
+
+Explanation:
+
+For numbers from 1 to 4
+for 1: 001 = 1 set bit
+for 2: 010 = 1 set bit
+for 3: 011 = 2 set bits
+for 4: 100 = 1 set bit
+
+therefore, total count of set bits = 5
+
+Example:
+Input: N=17
+Output:35
