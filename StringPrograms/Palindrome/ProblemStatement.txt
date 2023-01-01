@@ -1,0 +1,9 @@
+What is a Palindrome?
+--------------------------
+A string is said to be a Palindrome if it remains the same on reading from both ends.Means it should be 
+same on reversal as well.
+
+For example:
+
+"abba" is a Palindrome
+"abc" is not a Palindrome
